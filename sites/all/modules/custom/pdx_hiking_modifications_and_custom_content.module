@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the PDX Hiking - Modifications and Custom Content feature.
+ */
+
+include_once 'pdx_hiking_modifications_and_custom_content.features.inc';
